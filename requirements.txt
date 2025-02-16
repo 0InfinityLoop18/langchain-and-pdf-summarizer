@@ -13,3 +13,4 @@ langchain-core
 PyPDF2
 huggingface_hub
 chromadb
+gunicorn
