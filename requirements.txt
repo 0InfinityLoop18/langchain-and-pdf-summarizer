@@ -1,0 +1,15 @@
+Flask
+Flask-Session
+python-dotenv
+werkzeug
+sqlite3
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+langchain-core
+PyPDF2
+huggingface_hub
+chromadb
