@@ -2,7 +2,7 @@ Flask
 Flask-Session
 python-dotenv
 werkzeug
-sqlite3
+gunicorn
 langchain
 langchain-community
 langchain-groq
@@ -13,4 +13,3 @@ langchain-core
 PyPDF2
 huggingface_hub
 chromadb
-gunicorn
